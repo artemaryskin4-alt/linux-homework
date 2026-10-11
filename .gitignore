@@ -1,5 +1,11 @@
-# Результат работы скрипта
+# Результат работы скрипт
+hw1/house/
 house/
+
+# --- hw3: артефакты скриптов ---
+hw3/task02_backup_txt/backup/
+hw3/task03_top_words/output_*.txt
+
 
 # Сохранённые копии
 *.save
@@ -14,6 +20,3 @@ test.txt
 .DS_Store
 Thumbs.db
 
-# --- hw3 (задания 1-7) ---
-hw3/task02_backup_txt/backup/
-hw3/task03_top_words/output_*.txt
