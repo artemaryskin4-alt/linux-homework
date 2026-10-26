@@ -35,3 +35,18 @@ hw4/task08_logs/logs/
 
 # --- hw4/task08: результат ---
 hw4/task08_logs/logs/
+
+# --- hw4/task09: результат ---
+hw4/task09_rename/renamed/
+hw4/task09_rename/document*.txt
+hw4/task09_rename/file*.txt
+
+# --- hw4/task09: результат ---
+hw4/task09_rename/renamed/
+hw4/task09_rename/document*.txt
+hw4/task09_rename/file*.txt
+
+# --- hw4/task09: результат ---
+hw4/task09_rename/renamed/
+hw4/task09_rename/document*.txt
+hw4/task09_rename/file*.txt
