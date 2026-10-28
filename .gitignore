@@ -59,3 +59,15 @@ hw4/task09_rename/file*.txt
 # --- hw4/task10: результат ---
 hw4/task10_backup/backup/
 hw4/task10_backup/all_backups/
+
+# --- hw4/task11: результат ---
+hw4/task11_sort_files/images/
+hw4/task11_sort_files/documents/
+hw4/task11_sort_files/scripts/
+hw4/task11_sort_files/archives/
+hw4/task11_sort_files/image*.jpg
+hw4/task11_sort_files/image*.png
+hw4/task11_sort_files/doc*.txt
+hw4/task11_sort_files/doc*.pdf
+hw4/task11_sort_files/script*.sh
+hw4/task11_sort_files/archive*.tar.gz
