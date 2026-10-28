@@ -71,3 +71,7 @@ hw4/task11_sort_files/doc*.txt
 hw4/task11_sort_files/doc*.pdf
 hw4/task11_sort_files/script*.sh
 hw4/task11_sort_files/archive*.tar.gz
+
+# --- hw4/task05: результат ---
+hw4/task05_text/definitions/
+hw4/task05_text/*.json
