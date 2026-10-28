@@ -55,3 +55,7 @@ hw4/task09_rename/file*.txt
 hw4/task09_rename/renamed/
 hw4/task09_rename/document*.txt
 hw4/task09_rename/file*.txt
+
+# --- hw4/task10: результат ---
+hw4/task10_backup/backup/
+hw4/task10_backup/all_backups/
