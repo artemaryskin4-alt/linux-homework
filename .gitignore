@@ -75,3 +75,6 @@ hw4/task11_sort_files/archive*.tar.gz
 # --- hw4/task05: результат ---
 hw4/task05_text/definitions/
 hw4/task05_text/*.json
+
+# --- hw4/task06: результат ---
+hw4/task06_csv/fixed.csv
