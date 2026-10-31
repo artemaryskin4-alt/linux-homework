@@ -20,3 +20,7 @@ test.txt
 .DS_Store
 Thumbs.db
 
+
+# --- hw5: большие данные ---
+hw5/data/*.gff3
+hw5/data/*.gff3.gz
