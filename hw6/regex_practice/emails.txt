@@ -1,0 +1,15 @@
+Contact: user1@mail.ru
+Another: admin@yandex.ru
+Foreign: test@google.com
+Valid: valid@sub.domain.ru
+Invalid: invalid@mail.ru.com
+No-at: no-at-sign.ru
+Empty: @no-user.ru
+Short: user@mail.r
+Good: test@bk.ru
+Border1: user@mail.ru.
+Border2: user@mail.ru,
+Border3: user@mail.ru;
+Border4: (user@mail.ru)
+Border5: user@mail.ru.com
+Border6: user@mail.ru123

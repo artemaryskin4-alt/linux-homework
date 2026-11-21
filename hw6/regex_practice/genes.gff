@@ -1,0 +1,8 @@
+chr1    src    gene    100    500    .    -    .     Name=brca1;
+chr1    src    gene    600    900    .    +    .     Name=tp53;
+chr1    src    gene    1000   1500   .    -    .     Name=Axin;
+chr1    src    gene    1600   2000   .    -    .     Name=Hoxa1;
+chr1    src    gene    2100   2500   .    -    .     Name=Zyx;
+chr1    src    gene    2600   3000   .    -    .     Name=mnop;
+chr1    src    mRNA    100    500    .    -    .     Name=brca1_mRNA;
+chr2    src    gene    100    400    .    -    .     gene=abcdef;
