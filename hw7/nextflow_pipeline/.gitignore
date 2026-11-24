@@ -1,0 +1,12 @@
+.nextflow/
+.nextflow.log*
+work/
+results/
+*.bam
+*.bai
+*.fa.fai
+*.amb
+*.ann
+*.bwt
+*.pac
+*.s
