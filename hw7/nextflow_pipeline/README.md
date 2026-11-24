@@ -26,7 +26,8 @@
 | `--min_mapq` | Порог качества картирования (MAPQ) | `20` |
 
 ## Формат входных данных
-Файл `samplesheet.csv` должен содержать заголовок и следующие колонки:
+Файл `samplesheet.csv` содержит заголовок и следующие колонки:
 ```csv
 sample,fastq_1,fastq_2
-sample1,/path/to/R1.fastq.gz,/path/to/R2.fastq.gz
+sample1,test_data/sample1_R1.fastq,test_data/sample1_R2.fastq
+sample2,test_data/sample2_R1.fastq,test_data/sample2_R2.fastq
